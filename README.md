@@ -8,7 +8,7 @@
 </ul>
 
 <!-- Profile View Counter -->
-Show Image
+
 <!-- GitHub Stats -->
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnakamalbaishnab&show_icons=true&locale=en" alt="krishnakamalbaishnab" />
