@@ -1,4 +1,4 @@
-<h2 align="center">Hello World 👋, Welcome to my GitHub page!</h2>
+<h2 align="center">Hello World 👋, Welcome to my GitHub!</h2>
 <ul>
   <li>I'm <a href = "https://krishnakamalbaishnab.netlify.app/">Krishna</a>, A Software Engineer - Building intelligent solutions with Artificial Intelligence, Machine Learning, Data Science & Cloud Tech. Let's innovate together!</li>
 <!--   <li>Checkout my GitHub repositories on <a href = "https://github.com/ashishps1/awesome-system-design-resources">System Design</a>, <a href = "https://github.com/ashishps1/awesome-low-level-design">Low Level Design</a>, <a href = "https://github.com/ashishps1/awesome-leetcode-resources">Leetcode</a> and <a href = "https://github.com/ashishps1/awesome-behavioral-interviews">Behavioral interviews</a>.</li>
