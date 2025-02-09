@@ -19,4 +19,4 @@
 </p>
 
 
-![YOLO Badge](https://img.shields.io/badge/YOLO-Object%20Detection-blue?style=for-the-badge)
+
