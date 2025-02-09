@@ -17,3 +17,6 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakamalbaishnab&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=transparent" />
 </p>
+
+
+![YOLO Badge](https://img.shields.io/badge/YOLO-Object%20Detection-blue?style=for-the-badge)
