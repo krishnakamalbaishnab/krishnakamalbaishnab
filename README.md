@@ -10,7 +10,7 @@
 <!-- Profile View Counter -->
 
 <!-- GitHub Stats -->
-<p>
+<!-- <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnakamalbaishnab&show_icons=true&locale=en" alt="krishnakamalbaishnab" />
 </p>
 <!-- Most Used Languages -->
