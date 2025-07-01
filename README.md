@@ -8,9 +8,9 @@
 
 ---
 
-I'm <b><a href="https://krishnakamalbaishnab.click/">Krishna Kamal Baishnab</a></b>, a passionate <b>Software Engineer</b> focused on building scalable backend systems, intelligent applications with LLMs, and modern APIs using Python (FastAPI/Flask), MongoDB, and cloud services.
+I'm <b><a href="https://krishnakamalbaishnab.click/">Krishna Kamal</a></b>, Founder <b><a href="https://ace-kohl.vercel.app/">of ACE-Students<a><b>  |Passionate <b>Software Engineer</b> focused on building scalable backend systems, intelligent applications with LLMs, and modern APIs using Python (FastAPI/Flask), MongoDB, and cloud services etc.
 
-🔍 I'm actively looking for backend/software engineering roles abroad (UK, Germany, Netherlands, etc.).
+🔍 I'm actively looking for backend/software engineering roles globally (UK, Germany, Netherlands, etc.).
 
 ### 🧠 What I Work On
 - ✅ Building real-world backend applications with **Python + FastAPI**
@@ -24,9 +24,9 @@ I'm <b><a href="https://krishnakamalbaishnab.click/">Krishna Kamal Baishnab</a><
 
 | Project | Description |
 |--------|-------------|
-| [**helloNotes**](https://github.com/krishnakamalbaishnab/helloNotes) | FastAPI-based note-taking app with MongoDB and JWT auth |
-| [**LLM Interview Bot**](#) | GPT-4 powered tool to generate job-specific interview questions |
-| [**RoomRent India**](#) | SpareRoom-like shared accommodation platform for Indian cities |
+| [**HelloNotes**](https://github.com/krishnakamalbaishnab/helloNotes) | FastAPI-based note-taking app with MongoDB and JWT auth |
+| [**SkillSnap**](#) | Gemini Pro powered tool to recommend job profiles based on user resume|
+| [**HomeSync**](#) |  Shared accommodation platform for Indian cities |
 | [**AttriPredict**](https://github.com/krishnakamalbaishnab/AttriPredict) | Predicting employee attrition using ML + Flask |
 
 ---
@@ -43,7 +43,7 @@ I'm <b><a href="https://krishnakamalbaishnab.click/">Krishna Kamal Baishnab</a><
 
 ### 📫 Let's Connect
 - 💬 Ask me about Python, backend dev, or getting started with LLM APIs
-- 📮 Email: `krishna.k.b@example.com`
+- 📮 Email: `ht785618@gmail.com`
 - 🔗 Portfolio: [krishnakamalbaishnab.click](https://krishnakamalbaishnab.click)
 
 ---
