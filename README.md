@@ -1,7 +1,7 @@
 <h2 align="center">🌍 Hello World 👋, Welcome to my GitHub!</h2>
 
 <p align="center">
-  <a href="https://krishnakamalbaishnab.click/">🌐 Website</a> &nbsp;|&nbsp;
+  <a href="https://krishnakamalbaishnab.click/">Website</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/krishnakamalbaishnab/">LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://x.com/kkamalbaishnab">X (Twitter)</a>
 </p>
