@@ -61,8 +61,6 @@ I'm <b><a href="https://krishnakamalbaishnab.click/">Krishna Kamal</a></b>, Foun
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishnakamalbaishnab&show_icons=true&theme=transparent" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnakamalbaishnab&layout=compact&hide_border=true&langs_count=10&theme=transparent" />
 </p>
 
 ---
