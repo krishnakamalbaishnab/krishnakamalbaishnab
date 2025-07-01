@@ -10,7 +10,7 @@
 
 I'm <b><a href="https://krishnakamalbaishnab.click/">Krishna Kamal</a></b>, Founder of <b><a href="https://ace-kohl.vercel.app/">ACE-Students<a><b>  | Passionate <b>Software Engineer</b> focused on building scalable backend systems, intelligent applications with LLMs, and modern APIs using Python (FastAPI/Flask), MongoDB, and cloud services etc.
 
-🔍 I'm actively seeking backend/software engineering roles globally (UK, Germany, Netherlands, etc.).
+🔍 I'm actively seeking Backend/Software Engineering roles globally (UK, Germany, Netherlands, etc.).
 
 ### 🧠 Expertise
 - ✅ Building real-world backend applications with **Python + FastAPI**
@@ -32,7 +32,6 @@ I'm <b><a href="https://krishnakamalbaishnab.click/">Krishna Kamal</a></b>, Foun
 ---
 ---
 
----
 
 ### 🛠 My Tech Stack
 
