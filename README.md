@@ -10,13 +10,13 @@
 
 I'm <b><a href="https://krishnakamalbaishnab.click/">Krishna Kamal</a></b>, Founder of <b><a href="https://ace-kohl.vercel.app/">ACE-Students<a><b>  | Passionate <b>Software Engineer</b> focused on building scalable backend systems, intelligent applications with LLMs, and modern APIs using Python (FastAPI/Flask), MongoDB, and cloud services etc.
 
-🔍 I'm actively looking for backend/software engineering roles globally (UK, Germany, Netherlands, etc.)
+🔍 I'm actively seeking backend/software engineering roles globally (UK, Germany, Netherlands, etc.).
 
-### 🧠 What I Work On
+### 🧠 Expertise
 - ✅ Building real-world backend applications with **Python + FastAPI**
 - 🔗 Integrating **LLMs (OpenAI, Gemini)** via APIs
 - 📊 Data & analytics tools using **Pandas, SQL, and visualizations**
-- ☁️ Cloud deployment with **Render, Railway, Vercel**
+- ☁️ Cloud deployment with **Render, Railway, Vercel, AWS**
 
 ---
 
@@ -25,8 +25,8 @@ I'm <b><a href="https://krishnakamalbaishnab.click/">Krishna Kamal</a></b>, Foun
 | Project | Description |
 |--------|-------------|
 | [**HelloNotes**](https://github.com/krishnakamalbaishnab/helloNotes) | FastAPI-based note-taking app with MongoDB and JWT auth |
-| [**SkillSnap**](#) | Gemini Pro powered tool to recommend job profiles based on user resume|
-| [**HomeSync**](#) |  Shared accommodation platform for Indian cities |
+| [**SkillSnap**](https://github.com/krishnakamalbaishnab/skillsSnap) | Gemini Pro powered tool to recommend job profiles based on user resume|
+| [**HomeSync**](https://github.com/krishnakamalbaishnab/bharaghar) |  Shared accommodation platform for Indian cities |
 | [**AttriPredict**](https://github.com/krishnakamalbaishnab/AttriPredict) | Predicting employee attrition using ML + Flask |
 
 ---
@@ -74,4 +74,4 @@ I'm <b><a href="https://krishnakamalbaishnab.click/">Krishna Kamal</a></b>, Foun
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Code is like humour. When you have to explain it, it’s bad.” – Cory House
