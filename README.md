@@ -71,7 +71,6 @@ I'm <b><a href="https://krishnakamalbaishnab.click/">Krishna Kamal</a></b>, Foun
 ### 📫 Let's Connect
 - 💬 Ask me about Python, backend dev, or getting started with LLM APIs
 - 📮 Email: `ht785618@gmail.com`
-- 🔗 Portfolio: [krishnakamalbaishnab.click](https://krishnakamalbaishnab.click)
 
 ---
 
