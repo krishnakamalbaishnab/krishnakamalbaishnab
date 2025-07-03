@@ -57,13 +57,7 @@ I'm <b><a href="https://krishnakamalbaishnab.click/">Krishna Kamal</a></b>, Foun
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnakamalbaishnab&show_icons=true&theme=transparent" />
-</p>
-
----
 
 ### 📫 Let's Connect
 - 💬 Ask me about Python, backend dev, or getting started with LLM APIs
