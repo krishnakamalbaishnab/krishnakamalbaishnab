@@ -36,6 +36,8 @@ I'm <b><a href="https://krishnakamalbaishnab.click/">Krishna Kamal</a></b>, Foun
 ### 🛠 My Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -50,6 +52,7 @@ I'm <b><a href="https://krishnakamalbaishnab.click/">Krishna Kamal</a></b>, Foun
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
   <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white"/>
 </p>
+
 
 
 
