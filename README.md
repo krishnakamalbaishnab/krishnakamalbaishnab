@@ -1,22 +1,39 @@
-<h2 align="center">🌍 Hello World 👋, Welcome to my GitHub!</h2>
+<h2 align="center">🌍 Hello World 👋, I’m Krishna Kamal</h2>
 
 <p align="center">
-  <a href="https://krishnakamalbaishnab.click/">Website</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/krishnakamalbaishnab/">LinkedIn</a> &nbsp;|&nbsp;
-  <!-- <a href="https://x.com/kkamalbaishnab">X (Twitter)</a> -->
+  Founder of <a href="https://ace-kohl.vercel.app/">ACE-Students</a> | Passionate <b>Software Engineer</b> building <b>scalable backend systems</b>, <b>modern APIs</b>, and <b>AI-powered applications</b>
 </p>
 
 ---
 
-I'm <b><a href="https://krishnakamalbaishnab.click/">Krishna Kamal</a></b>, Founder of <b><a href="https://ace-kohl.vercel.app/">ACE-Students<a><b>  | and a passionate Software Engineer specialising in scalable backend systems, modern APIs, and AI-powered applications. I build with Python (FastAPI/Flask), MongoDB, and cloud platforms, and I’m currently expanding into Spring Boot and advanced AI/LLM integrations to deliver even smarter, production-ready solutions.
+🔹 **About Me**  
+I'm [Krishna Kamal](https://krishnakamalbaishnab.click/), a Software Engineer with experience designing **production-ready backend applications** using **Python (FastAPI/Flask)**, **MongoDB/PostgreSQL**, and **cloud platforms**.  
+Currently, I’m **expanding into Spring Boot and advanced AI/LLM integrations** to build smarter, scalable solutions.  
 
-🔍 I'm actively seeking Backend/Software Engineering roles globally (UK, Germany, Netherlands, etc.).
+🌍 **Open to Backend/Software Engineering opportunities worldwide**, focusing on the **UK, Germany, Netherlands, and remote roles**.  
 
-### 🧠 Expertise
-- ✅ Building real-world backend applications with **Python + FastAPI**
-- 🔗 Integrating **LLMs (OpenAI, Gemini)** via APIs
-- 📊 Data & analytics tools using **Pandas, SQL, and visualizations**
-- ☁️ Cloud deployment with **Render, Railway, Vercel, AWS**
+---
+
+### 🛠 Expertise & Tech Stack
+
+**Backend & APIs:** FastAPI, Flask, Django, Spring Boot  
+**Databases & Analytics:** MongoDB, PostgreSQL, SQL, Pandas  
+**AI & LLMs:** OpenAI, Google Gemini, ML pipelines  
+**Cloud & DevOps:** AWS, Render, Railway, Docker  
+**Languages:** Python, Java, C++, SQL  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 
 ---
 
@@ -24,47 +41,20 @@ I'm <b><a href="https://krishnakamalbaishnab.click/">Krishna Kamal</a></b>, Foun
 
 | Project | Description |
 |--------|-------------|
-| [**HelloNotes**](https://github.com/krishnakamalbaishnab/helloNotes) | FastAPI-based note-taking app with MongoDB and JWT auth |
-| [**SkillSnap**](https://github.com/krishnakamalbaishnab/skillsSnap) | Gemini Pro powered tool to recommend job profiles based on user resume|
-| [**HomeSync**](https://github.com/krishnakamalbaishnab/bharaghar) |  Shared accommodation platform for Indian cities |
-| [**AttriPredict**](https://github.com/krishnakamalbaishnab/AttriPredict) | Predicting employee attrition using ML + Flask |
+| [**HelloNotes**](https://github.com/krishnakamalbaishnab/helloNotes) | FastAPI-based note-taking app with MongoDB and JWT authentication |
+| [**SkillSnap**](https://github.com/krishnakamalbaishnab/skillsSnap) | Gemini Pro-powered tool to recommend job profiles from resumes |
+| [**HomeSync**](https://github.com/krishnakamalbaishnab/bharaghar) | Shared accommodation platform for Indian cities |
+| [**AttriPredict**](https://github.com/krishnakamalbaishnab/AttriPredict) | Employee attrition prediction using ML + Flask |
 
 ---
 
+### 📫 Let’s Connect
 
-
-### 🛠 My Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white"/>
-</p>
-
-
-
-
-
-
----
-
-
-
-### 📫 Let's Connect
-- 💬 Ask me about Python, backend dev, or getting started with LLM APIs
-- 📮 Email: `ht785618@gmail.com`
+- 💬 Ask me about **Python, backend development, or AI/LLM integration**  
+- 📮 Email: `ht785618@gmail.com`  
+- 🌐 Website: [krishnakamalbaishnab.click](https://krishnakamalbaishnab.click/)  
+- 🔗 LinkedIn: [krishnakamalbaishnab](https://www.linkedin.com/in/krishnakamalbaishnab/)  
+- 🐦 X (Twitter): [kkamalbaishnab](https://x.com/kkamalbaishnab)
 
 ---
 
