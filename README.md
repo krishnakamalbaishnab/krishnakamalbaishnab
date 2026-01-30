@@ -8,7 +8,7 @@
 
 ---
 
-I'm <b><a href="https://krishnakamalbaishnab.click/">Krishna Kamal</a></b>, Founder of <b><a href="https://ace-kohl.vercel.app/">ACE-Students<a><b>  | Passionate <b>Software Engineer</b> focused on building scalable backend systems, intelligent applications with LLMs, and modern APIs using Python (FastAPI/Flask), MongoDB, and cloud services etc.
+I'm <b><a href="https://krishnakamalbaishnab.click/">Krishna Kamal</a></b>, Founder of <b><a href="https://ace-kohl.vercel.app/">ACE-Students<a><b>  | and a passionate Software Engineer specialising in scalable backend systems, modern APIs, and AI-powered applications. I build with Python (FastAPI/Flask), MongoDB, and cloud platforms, and I’m currently expanding into Spring Boot and advanced AI/LLM integrations to deliver even smarter, production-ready solutions.
 
 🔍 I'm actively seeking Backend/Software Engineering roles globally (UK, Germany, Netherlands, etc.).
 
