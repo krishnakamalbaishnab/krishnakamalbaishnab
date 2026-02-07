@@ -69,18 +69,8 @@ OpenAI, Google Gemini, ML pipelines, NLP, Pandas
 
 ---
 
-### 🚀 Selected Projects
 
-| Project | Description |
-|--------|-------------|
-| **HelloNotes** | Backend service with JWT authentication, REST APIs, and MongoDB. Focused on clean architecture, secure user flows, and deployment on AWS. |
-| **SkillSnap** | Resume analysis platform using embeddings and LLMs to extract skills and match job roles. Built with Flask, Docker, and deployed on Railway. |
-| **HomeSync** | Shared accommodation platform backend designed for Indian cities, focusing on data modeling, user verification, and matching logic. |
-| **AttriPredict** | ML-backed backend service for employee attrition prediction, exposing models via REST APIs using Flask. |
 
-> Each project emphasizes **engineering decisions**, not just features.
-
----
 
 ### 📫 Let’s Connect
 
