@@ -1,74 +1,84 @@
-<h2 align="center">🌍 Hello World 👋, I’m Krishna Kamal</h2>
+<h2 align="center">👋 Hello, I’m Krishna Kamal</h2>
 
 <p align="center">
-  Founder of <a href="https://ace-kohl.vercel.app/">ACE-Students</a> | Passionate <b>Software Engineer</b> building <b>scalable backend systems</b>, <b>modern APIs</b>, and <b>AI-powered applications</b>
+Software Engineer focused on <b>backend development</b>, <b>scalable systems</b>, and <b>clean API design</b>.<br/>
+Experienced in building production-ready applications and data-driven platforms using <b>Python</b>, <b>Java</b>, and modern cloud technologies.
 </p>
 
 ---
 
-🔹 **About Me**  
-I'm [Krishna Kamal](https://krishnakamalbaishnab.click/), a Software Engineer with experience designing **production-ready backend applications** using **Python (FastAPI/Flask)**, **MongoDB/PostgreSQL**, and **cloud platforms**.  
-Currently, I’m **expanding into Spring Boot and advanced AI/LLM integrations** to build smarter, scalable solutions.  
+### 🔹 About Me
+
+I’m <a href="https://krishnakamalbaishnab.click/">Krishna Kamal</a>, a Software Engineer with hands-on experience designing and shipping <b>real-world backend systems</b> — from internal automation tools to customer-facing platforms.
+
+My core focus is **engineering fundamentals**:
+- Backend APIs & services
+- Data modeling & databases
+- System reliability & scalability
+- Writing maintainable, readable code
+
+Alongside this, I work with **AI/LLMs** where they add real product value (not hype).
 
 &nbsp;![](https://komarev.com/ghpvc/?username=krishnakamalbaishnab&color=brightgreen)
 
-
 <p align="center">
-<img
-  src="https://github-statspro.vercel.app/api/stats/krishnakamalbaishnab?theme=default"
-  alt="Stats Card"
-/>
-</p>
-
-
-
-
----
-
-### 🛠 Expertise & Tech Stack
-
-**Backend & APIs:** FastAPI, Flask, Django, Spring Boot  
-**Databases & Analytics:** MongoDB, PostgreSQL, SQL, Pandas  
-**AI & LLMs:** OpenAI, Google Gemini, ML pipelines  
-**Cloud & DevOps:** AWS, Render, Railway, Docker  
-**Languages:** Python, Java, C++, SQL  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img
+    src="https://github-statspro.vercel.app/api/stats/krishnakamalbaishnab?theme=default"
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🧠 Engineering & CS Focus
+
+- Strong foundation in **Data Structures & Algorithms** (LeetCode-style problem solving)
+- Backend system design: REST APIs, authentication, authorization, caching
+- Database design with SQL & NoSQL systems
+- Experience thinking about **scalability, performance, and clean architecture**
+- Comfortable working across the stack when needed, with backend as my strength
+
+---
+
+### 🛠 Tech Stack
+
+**Languages**  
+Python, Java, C++, SQL
+
+**Backend & APIs**  
+FastAPI, Flask, Django, Spring Boot, RESTful APIs
+
+**Databases**  
+PostgreSQL, MongoDB, MySQL
+
+**Cloud & DevOps**  
+AWS, Docker, Railway, Render, Linux
+
+**AI / Data (when applicable)**  
+OpenAI, Google Gemini, ML pipelines, NLP, Pandas
+
+---
+
+### 🚀 Selected Projects
 
 | Project | Description |
 |--------|-------------|
-| [**HelloNotes**](https://github.com/krishnakamalbaishnab/helloNotes) | FastAPI-based note-taking app with MongoDB and JWT authentication |
-| [**SkillSnap**](https://github.com/krishnakamalbaishnab/skillsSnap) | Gemini Pro-powered tool to recommend job profiles from resumes |
-| [**HomeSync**](https://github.com/krishnakamalbaishnab/bharaghar) | Shared accommodation platform for Indian cities |
-| [**AttriPredict**](https://github.com/krishnakamalbaishnab/AttriPredict) | Employee attrition prediction using ML + Flask |
+| **HelloNotes** | Backend service with JWT authentication, REST APIs, and MongoDB. Focused on clean architecture, secure user flows, and deployment on AWS. |
+| **SkillSnap** | Resume analysis platform using embeddings and LLMs to extract skills and match job roles. Built with Flask, Docker, and deployed on Railway. |
+| **HomeSync** | Shared accommodation platform backend designed for Indian cities, focusing on data modeling, user verification, and matching logic. |
+| **AttriPredict** | ML-backed backend service for employee attrition prediction, exposing models via REST APIs using Flask. |
+
+> Each project emphasizes **engineering decisions**, not just features.
 
 ---
 
 ### 📫 Let’s Connect
 
-- 💬 Ask me about **Python, backend development, or AI/LLM integration**  
-- 📮 Email: `ht785618@gmail.com`  
-- 🌐 Website: [krishnakamalbaishnab.click](https://krishnakamalbaishnab.click/)  
-- 🔗 LinkedIn: [krishnakamalbaishnab](https://www.linkedin.com/in/krishnakamalbaishnab/)  
-- 🐦 X (Twitter): [kkamalbaishnab](https://x.com/kkamalbaishnab)
+- 💬 Happy to discuss **backend engineering, system design, or applied AI**
+- 📧 Email: `ht785618@gmail.com`
+- 🌐 Website: https://krishnakamalbaishnab.click
+- 🔗 LinkedIn: https://www.linkedin.com/in/krishnakamalbaishnab
 
 ---
 
-> “Code is like humour. When you have to explain it, it’s bad.” – Cory House
+> “First, solve the problem. Then, write the code.” — John Johnson
