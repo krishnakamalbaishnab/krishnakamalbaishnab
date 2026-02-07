@@ -13,6 +13,15 @@ Currently, I’m **expanding into Spring Boot and advanced AI/LLM integrations**
 &nbsp;![](https://komarev.com/ghpvc/?username=krishnakamalbaishnab&color=brightgreen)
 
 
+<p align="center">
+<img
+  src="https://github-statspro.vercel.app/api/stats/krishnakamalbaishnab?theme=default"
+  alt="Stats Card"
+/>
+</p>
+
+
+
 
 ---
 
