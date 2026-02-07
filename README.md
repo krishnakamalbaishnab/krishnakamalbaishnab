@@ -10,6 +10,8 @@
 I'm [Krishna Kamal](https://krishnakamalbaishnab.click/), a Software Engineer with experience designing **production-ready backend applications** using **Python (FastAPI/Flask)**, **MongoDB/PostgreSQL**, and **cloud platforms**.  
 Currently, I’m **expanding into Spring Boot and advanced AI/LLM integrations** to build smarter, scalable solutions.  
 
+&nbsp;![](https://komarev.com/ghpvc/?username=krishnakamalbaishnab&color=brightgreen)
+
 
 
 ---
