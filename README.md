@@ -164,13 +164,7 @@ I'm always interested in discussing:
 
 <div align="center">
 
-### 📫 Reach Out
 
-**Email:** [ht785618@gmail.com](mailto:ht785618@gmail.com)  
-**Website:** [krishnakamalbaishnab.click](https://krishnakamalbaishnab.click)  
-**LinkedIn:** [krishnakamalbaishnab](https://www.linkedin.com/in/krishnakamalbaishnab)
-
----
 
 <sub>💭 *"First, solve the problem. Then, write the code."* — John Johnson</sub>
 
