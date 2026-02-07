@@ -43,12 +43,7 @@ Alongside this, I work with **AI/LLMs** where they add real product value (not h
 </p>
 
 
-<p align="center">
-  <img
-    src="https://github-statspro.vercel.app/api/stats/krishnakamalbaishnab?theme=default"
-    alt="GitHub Stats"
-  />
-</p>
+
 
 ---
 
