@@ -30,7 +30,6 @@ Alongside this, I work with **AI/LLMs** where they add real product value (not h
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-&nbsp;![](https://komarev.com/ghpvc/?username=krishnakamalbaishnab&color=brightgreen)
 
 <p align="center">
   <img
