@@ -97,8 +97,19 @@ class BackendEngineer:
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnakamalbaishnab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnakamalbaishnab&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
+
+
+
+
+<!-- <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnakamalbaishnab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div> -->
 
 
 
