@@ -42,7 +42,7 @@ Alongside this, I work with **AI/LLMs** where they add real product value (not h
 
 ### 🧠 Engineering & CS Focus
 
-- Strong foundation in **Data Structures & Algorithms** (LeetCode-style problem solving)
+- Strong foundation in **Data Structures & Algorithms**
 - Backend system design: REST APIs, authentication, authorization, caching
 - Database design with SQL & NoSQL systems
 - Experience thinking about **scalability, performance, and clean architecture**
