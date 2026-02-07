@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://github-statspro.vercel.app/api/stats/krishnakamalbaishnab?theme=custom&design=modern"
+    src="https://github-statspro.vercel.app/api/stats/krishnakamalbaishnab?theme=custom&design=modern&colors=0f172a,1e293b,38bdf8,22c55e,f97316,ffffff"
     height="245"
     alt="GitHub stats"
   />
