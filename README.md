@@ -1,15 +1,12 @@
-<p align="center">
-  <img src="./profile-card.svg" alt="Profile Card" />
-</p>
-
 
 <p align="center">
   <img
-    src="https://github-statspro.vercel.app/api/stats/krishnakamalbaishnab?theme=custom&design=modern&colors=0b1020,111827,a78bfa,22d3ee,34d399,f9fafb"
+    src="https://github-statspro.vercel.app/api/stats/krishnakamalbaishnab?theme=custom&colors=fafafa,e3ecf2,a3b0e1,080746,1e1e7b&design=modern"
     height="245"
     alt="GitHub stats"
   />
 </p>
+
 
 
 <h2 align="center">👋 Hello, I’m Krishna Kamal</h2>
