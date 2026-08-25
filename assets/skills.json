@@ -1,0 +1,12 @@
+{
+  "title": "Backend Engineering",
+  "axes": [
+    { "label": "Java", "value": 82 },
+    { "label": "Spring Boot", "value": 82 },
+    { "label": "Python", "value": 88 },
+    { "label": "System Design", "value": 76 },
+    { "label": "Databases", "value": 82 },
+    { "label": "Docker / DevOps", "value": 72 },
+    { "label": "DSA", "value": 78 }
+  ]
+}
