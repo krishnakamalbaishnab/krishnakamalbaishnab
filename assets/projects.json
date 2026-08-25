@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "repo": "skillsSnap",
+      "description": "AI-powered resume analysis, job matching, and skill-gap analysis platform.",
+      "language": "Python"
+    },
+    {
+      "repo": "Hello-Notes",
+      "description": "Student-focused note-taking application with authentication and organization features.",
+      "language": "Python"
+    },
+    {
+      "repo": "Retail",
+      "description": "Digital ordering platform exploring QR-based access and WhatsApp-driven retail workflows.",
+      "language": "Java"
+    }
+  ]
+}

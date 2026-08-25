@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/portrait.svg" width="420" alt="Krishna Kamal"/>
+<img src="assets/portrait.svg" width="420" alt="Krishna Kamal Baishnab"/>
 
 # Krishna Kamal Baishnab
 
@@ -12,16 +12,16 @@ I build backend systems, APIs, and software products with a focus on
 <br/>
 
 <a href="https://github.com/krishnakamalbaishnab">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/krishnakamalbaishnab">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:ht785618@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://krishnakamalbaishnab.click">
-  <img src="https://img.shields.io/badge/Portfolio-080746?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-080746?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
@@ -44,8 +44,8 @@ My primary interests are:
 - Building practical software products
 
 I enjoy understanding how systems work underneath the framework — from
-database design and API boundaries to authentication, deployment, and
-production infrastructure.
+database design and API boundaries to authentication, testing, deployment,
+and production infrastructure.
 
 ---
 
@@ -65,7 +65,7 @@ Designing and building REST APIs with:
 - MongoDB
 - Authentication & authorization
 - Database migrations
-- API integration
+- API integrations
 
 </td>
 
@@ -78,7 +78,7 @@ I care about:
 - Clean architecture
 - SOLID principles
 - Maintainable code
-- Testing
+- Automated testing
 - Containerization
 - CI/CD
 - Scalability
@@ -96,23 +96,23 @@ I care about:
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,sql&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp&perline=8" alt="Java Python C++"/>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=spring,fastapi,django,flask&perline=8" />
+<img src="https://skillicons.dev/icons?i=spring,fastapi,django,flask&perline=8" alt="Spring Boot FastAPI Django Flask"/>
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&perline=8" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&perline=8" alt="PostgreSQL MongoDB MySQL Redis"/>
 
 ### Infrastructure & Tools
 
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,git,github&perline=8" />
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,git,github&perline=8" alt="Docker AWS GCP Linux Git GitHub"/>
 
-### AI / Developer Tools
+### AI & LLM Applications
 
-<img src="https://skillicons.dev/icons?i=python,openai&perline=8" />
+<img src="https://skillicons.dev/icons?i=python&perline=8" alt="Python"/>
 
 </div>
 
@@ -125,61 +125,73 @@ I care about:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="500" alt="Backend engineering skills radar">
+  <img src="assets/radar-dark.svg" width="500" alt="Backend engineering skills radar"/>
 </picture>
 
 </div>
 
-> A self-assessment of the areas I currently focus on most.  
-> I'm continuously working to improve these through projects, DSA practice,
+> A self-assessment of the areas I currently focus on most.
+> I'm continuously improving through projects, DSA practice,
 > system design, and hands-on engineering.
 
 ---
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-skillsSnap-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-skillsSnap-light.svg">
+  <img src="assets/card-skillsSnap-dark.svg" width="420" alt="SkillSnap project card"/>
+</picture>
+
+&nbsp;&nbsp;
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-Hello-Notes-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-Hello-Notes-light.svg">
+  <img src="assets/card-Hello-Notes-dark.svg" width="420" alt="HelloNotes project card"/>
+</picture>
+
+</div>
+
 ### 🎯 SkillSnap
 
-**AI-powered resume analysis and job matching platform.**
-
-SkillSnap analyzes resumes, matches candidates against job descriptions,
-identifies skill gaps, and provides AI-assisted recommendations.
+AI-powered resume analysis and job matching platform focused on resume
+analysis, skill-gap identification, job matching, and AI-assisted
+recommendations.
 
 **Built with:** Python · Flask · LLM APIs · Docker · REST APIs
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnakamalbaishnab/skillsSnap)
-
----
-
-### 🏪 Retail Platform
-
-**A digital platform for local retailers.**
-
-An exploration of turning traditional pen-and-paper retail workflows into
-a digital ordering system using QR-based access and WhatsApp-driven orders.
-
-**Built with:** Java · Spring Boot · PostgreSQL · REST APIs
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnakamalbaishnab/Retail)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnakamalbaishnab/skillsSnap)
 
 ---
 
 ### 📝 HelloNotes
 
-**Student-focused note-taking application.**
-
-A web application designed around organizing notes, folders, tasks,
-authentication, and academic workflows.
+A student-focused note-taking application built around authentication,
+notes, folders, tasks, and academic organization.
 
 **Built with:** Python · FastAPI · MongoDB · Bootstrap
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnakamalbaishnab/Hello-Notes)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnakamalbaishnab/Hello-Notes)
+
+---
+
+### 🏪 Retail Platform
+
+A digital platform exploring how traditional pen-and-paper retail
+workflows can be converted into a simple digital ordering experience
+using QR-based access and WhatsApp-driven orders.
+
+**Built with:** Java · Spring Boot · PostgreSQL · REST APIs
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnakamalbaishnab/Retail)
 
 ---
 
 ### 🧒 Kids Platform
-
-**A full-stack marketplace and management platform.**
 
 A larger full-stack application exploring authentication, role-based
 portals, PostgreSQL data modeling, database migrations, Docker-based
