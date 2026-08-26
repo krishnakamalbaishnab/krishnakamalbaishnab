@@ -2,10 +2,8 @@
 
 <img src="assets/portrait.svg" width="360" alt="Krishna Kamal Baishnab"/>
 
-# Krishna Kamal Baishnab
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Engineer;Machine+Learning+Engineer;AI+%2F+LLM+Engineer;Systems+%26+Problem+Solving" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Krishna+Kamal+Baishnab;Backend;Machine+Learning;AI+%2F+LLM;Infrastructure;System+Design;Problem+Solver" alt="Typing introduction"/>
 </a>
 
 I like taking an idea, turning it into a working system, and then figuring out how to make it reliable.
