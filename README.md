@@ -95,52 +95,7 @@ DSA · System Design · Databases · APIs
 
 ---
 
-## 🚀 Things I've built
 
-<div align="center">
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/krishnakamalbaishnab/skillsSnap">
-<img src="assets/card-skillsSnap-dark.svg" alt="SkillSnap project card"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/krishnakamalbaishnab/Hello-Notes">
-<img src="assets/card-Hello-Notes-dark.svg" alt="HelloNotes project card"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-### 🏪 Retail
-
-**A digital ordering platform for local retailers.**
-
-Exploring QR-based access and WhatsApp-driven retail workflows.
-
-**Java · Spring Boot · PostgreSQL · REST APIs**
-
-[View repository →](https://github.com/krishnakamalbaishnab/Retail)
-
-### 🧒 Kids Platform
-
-**A full-stack marketplace and management platform.**
-
-Exploring authentication, role-based portals, PostgreSQL data modeling, Flyway migrations, Docker-based development, and multiple application workflows.
-
-**Java · Spring Boot · PostgreSQL · React · Docker · Flyway**
-
-> Private project — currently under active development.
-
----
 
 <div align="center">
 
