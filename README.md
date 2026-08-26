@@ -4,7 +4,9 @@
 
 # Krishna Kamal Baishnab
 
-### Software Engineer · Backend Engineering · Systems
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Engineer;Machine+Learning+Engineer;AI+%2F+LLM+Engineer;Systems+%26+Problem+Solving" alt="Typing SVG"/>
+</a>
 
 I like taking an idea, turning it into a working system, and then figuring out how to make it reliable.
 
@@ -20,7 +22,11 @@ I like taking an idea, turning it into a working system, and then figuring out h
 
 ---
 
+<div align="center">
+
 ## 👋 A little about me
+
+</div>
 
 I'm a Software Engineer focused on backend development, with Java/Spring Boot and Python as my main tools.
 
@@ -94,8 +100,6 @@ DSA · System Design · Databases · APIs
 </div>
 
 ---
-
-
 
 <div align="center">
 
