@@ -1,120 +1,77 @@
 <div align="center">
 
-<img src="assets/portrait.svg" width="420" alt="Krishna Kamal Baishnab"/>
+<img src="assets/portrait.svg" width="360" alt="Krishna Kamal Baishnab"/>
 
 # Krishna Kamal Baishnab
 
-### Software Engineer · Backend Engineering · Systems & Problem Solving
+### Software Engineer · Backend Engineering · Systems
 
-I build backend systems, APIs, and software products with a focus on
-**clean architecture, reliable data, and practical engineering.**
+I like taking an idea, turning it into a working system, and then figuring out how to make it reliable.
 
 <br/>
 
-<a href="https://github.com/krishnakamalbaishnab">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/krishnakamalbaishnab">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:ht785618@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://krishnakamalbaishnab.click">
-  <img src="https://img.shields.io/badge/Portfolio-080746?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
+<a href="https://github.com/krishnakamalbaishnab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/krishnakamalbaishnab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://krishnakamalbaishnab.click"><img src="https://img.shields.io/badge/Portfolio-080746?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://krishnakamalbaishnab.medium.com"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="mailto:ht785618@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
 ---
 
-## `~/whoami`
+## 👋 A little about me
 
-I'm a **Software Engineer focused on backend development**.
+I'm a Software Engineer focused on backend development, with Java/Spring Boot and Python as my main tools.
 
-My primary interests are:
+I enjoy working close to the parts of a product that make everything else possible: APIs, databases, authentication, application architecture, testing, containers, and deployment.
 
-- Backend API development
-- Java & Spring Boot
-- Python backend development
-- Database design
-- System design
-- Data structures & algorithms
-- Docker and deployment
-- Building practical software products
-
-I enjoy understanding how systems work underneath the framework — from
-database design and API boundaries to authentication, testing, deployment,
-and production infrastructure.
+I'm also interested in system design, data structures and algorithms, and practical applications of AI/LLMs.
 
 ---
 
-## 🏗️ What I Build
+## 🧰 What I work with
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,spring,fastapi,postgres,mongodb,docker,aws,gcp,linux,git&perline=6" alt="Technology stack"/>
+
+</div>
 
 <table>
 <tr>
 <td width="50%">
 
-### Backend Systems
+**Backend**
 
-Designing and building REST APIs with:
-
-- Java & Spring Boot
-- Python & FastAPI / Flask
-- PostgreSQL
-- MongoDB
-- Authentication & authorization
-- Database migrations
-- API integrations
+Java · Spring Boot · Python · FastAPI · Flask
 
 </td>
-
 <td width="50%">
 
-### Engineering
+**Data**
 
-I care about:
+PostgreSQL · MongoDB · MySQL · Redis
 
-- Clean architecture
-- SOLID principles
-- Maintainable code
-- Automated testing
-- Containerization
-- CI/CD
-- Scalability
-- Debugging real problems
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Infrastructure**
+
+Docker · AWS · GCP · Linux · CI/CD
+
+</td>
+<td width="50%">
+
+**Computer Science**
+
+DSA · System Design · Databases · APIs
 
 </td>
 </tr>
 </table>
-
----
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp&perline=8" alt="Java Python C++"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=spring,fastapi,django,flask&perline=8" alt="Spring Boot FastAPI Django Flask"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&perline=8" alt="PostgreSQL MongoDB MySQL Redis"/>
-
-### Infrastructure & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,git,github&perline=8" alt="Docker AWS GCP Linux Git GitHub"/>
-
-### AI & LLM Applications
-
-<img src="https://skillicons.dev/icons?i=python&perline=8" alt="Python"/>
-
-</div>
 
 ---
 
@@ -125,106 +82,144 @@ I care about:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="500" alt="Backend engineering skills radar"/>
+  <img src="assets/radar-dark.svg" width="460" alt="Engineering radar"/>
 </picture>
 
 </div>
 
-> A self-assessment of the areas I currently focus on most.
-> I'm continuously improving through projects, DSA practice,
-> system design, and hands-on engineering.
+*Self-rated areas I'm actively developing through projects, problem solving, and system-design practice.*
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Things I've built
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-skillsSnap-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/card-skillsSnap-light.svg">
-  <img src="assets/card-skillsSnap-dark.svg" width="420" alt="SkillSnap project card"/>
+  <img src="assets/card-skillsSnap-dark.svg" width="420" alt="SkillSnap"/>
 </picture>
-
-&nbsp;&nbsp;
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-Hello-Notes-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/card-Hello-Notes-light.svg">
-  <img src="assets/card-Hello-Notes-dark.svg" width="420" alt="HelloNotes project card"/>
+  <img src="assets/card-Hello-Notes-dark.svg" width="420" alt="HelloNotes"/>
 </picture>
 
 </div>
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🎯 SkillSnap
 
-AI-powered resume analysis and job matching platform focused on resume
-analysis, skill-gap identification, job matching, and AI-assisted
-recommendations.
+AI-powered resume analysis and job-matching platform.
 
-**Built with:** Python · Flask · LLM APIs · Docker · REST APIs
+**Python · Flask · LLM APIs · Docker**
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnakamalbaishnab/skillsSnap)
+<a href="https://github.com/krishnakamalbaishnab/skillsSnap">View repository →</a>
 
----
+</td>
+<td width="50%">
 
 ### 📝 HelloNotes
 
-A student-focused note-taking application built around authentication,
-notes, folders, tasks, and academic organization.
+A note-taking application built around authentication, organization, and academic workflows.
 
-**Built with:** Python · FastAPI · MongoDB · Bootstrap
+**Python · FastAPI · MongoDB · Docker**
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnakamalbaishnab/Hello-Notes)
+<a href="https://github.com/krishnakamalbaishnab/Hello-Notes">View repository →</a>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 🏪 Retail Platform
+### 🏪 Retail
 
-A digital platform exploring how traditional pen-and-paper retail
-workflows can be converted into a simple digital ordering experience
-using QR-based access and WhatsApp-driven orders.
+A digital ordering concept for local retailers using QR-based access and WhatsApp-driven workflows.
 
-**Built with:** Java · Spring Boot · PostgreSQL · REST APIs
+**Java · Spring Boot · PostgreSQL**
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnakamalbaishnab/Retail)
+<a href="https://github.com/krishnakamalbaishnab/Retail">View repository →</a>
 
----
+</td>
+<td width="50%">
 
 ### 🧒 Kids Platform
 
-A larger full-stack application exploring authentication, role-based
-portals, PostgreSQL data modeling, database migrations, Docker-based
-development, and multiple application workflows.
+A full-stack platform currently under development, exploring authentication, role-based portals, PostgreSQL, Flyway, Docker, and React.
 
-**Built with:** Java · Spring Boot · PostgreSQL · React · Docker · Flyway
+**Java · Spring Boot · PostgreSQL · React**
 
-> Private project — currently under active development.
+</td>
+</tr>
+</table>
 
 ---
 
-## ☁️ Backend & Infrastructure
+## ✍️ I write about what I learn
 
-My current backend development environment revolves around:
+I keep technical notes and write about things I find useful while learning and building — from software engineering concepts to tools and experiments.
 
-```text
-Java / Spring Boot
-        │
-        ├── REST APIs
-        ├── Authentication
-        ├── PostgreSQL
-        ├── Flyway
-        └── Testing
+<div align="center">
 
-Python
-        │
-        ├── FastAPI
-        ├── Flask
-        ├── AI / LLM integrations
-        └── Data processing
+<a href="https://krishnakamalbaishnab.medium.com">
+  <img src="https://img.shields.io/badge/Read_my_writing-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
 
-Docker
-        │
-        ├── Local development
-        ├── Multi-container applications
-        └── Deployment workflows
+</div>
+
+---
+
+## 🧠 How I approach engineering
+
+> **Build it. Break it. Understand it. Improve it.**
+
+I prefer understanding a problem before reaching for a framework or a workaround.
+
+For me, good engineering is less about collecting technologies and more about knowing why a system behaves the way it does.
+
+---
+
+## 📈 GitHub
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
+  <img src="assets/card-stats-dark.svg" width="460" alt="GitHub statistics"/>
+</picture>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnakamalbaishnab&theme=tokyo-night&hide_border=true&area=true" width="92%" alt="GitHub activity graph"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=krishnakamalbaishnab&color=080746&style=flat-square&label=Profile+Views" alt="Profile views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something useful.
+
+<a href="https://github.com/krishnakamalbaishnab">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/krishnakamalbaishnab">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://krishnakamalbaishnab.medium.com">Writing</a>
+&nbsp;·&nbsp;
+<a href="mailto:ht785618@gmail.com">Email</a>
+
+<br/><br/>
+
+<sub>Code is the implementation. Understanding is the skill.</sub>
+
+</div>
