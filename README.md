@@ -113,30 +113,6 @@ DSA · System Design · Databases · APIs
 <tr>
 <td width="50%">
 
-### 🎯 SkillSnap
-
-AI-powered resume analysis and job-matching platform.
-
-**Python · Flask · LLM APIs · Docker**
-
-<a href="https://github.com/krishnakamalbaishnab/skillsSnap">View repository →</a>
-
-</td>
-<td width="50%">
-
-### 📝 HelloNotes
-
-A note-taking application built around authentication, organization, and academic workflows.
-
-**Python · FastAPI · MongoDB · Docker**
-
-<a href="https://github.com/krishnakamalbaishnab/Hello-Notes">View repository →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### 🏪 Retail
 
 A digital ordering concept for local retailers using QR-based access and WhatsApp-driven workflows.
@@ -193,10 +169,6 @@ For me, good engineering is less about collecting technologies and more about kn
   <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
   <img src="assets/card-stats-dark.svg" width="460" alt="GitHub statistics"/>
 </picture>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnakamalbaishnab&theme=tokyo-night&hide_border=true&area=true" width="92%" alt="GitHub activity graph"/>
 
 <br/><br/>
 
