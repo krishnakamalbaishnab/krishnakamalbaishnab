@@ -30,24 +30,24 @@ I'm also interested in system design, data structures and algorithms, and practi
 
 ---
 
-## 🧰 What I work with
-
 <div align="center">
+
+## 🧰 What I work with
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,spring,fastapi,postgres,mongodb,docker,aws,gcp,linux,git&perline=6" alt="Technology stack"/>
 
-</div>
+<br/><br/>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" align="left">
 
 **Backend**
 
 Java · Spring Boot · Python · FastAPI · Flask
 
 </td>
-<td width="50%">
+<td width="50%" align="left">
 
 **Data**
 
@@ -56,14 +56,14 @@ PostgreSQL · MongoDB · MySQL · Redis
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="left">
 
 **Infrastructure**
 
 Docker · AWS · GCP · Linux · CI/CD
 
 </td>
-<td width="50%">
+<td width="50%" align="left">
 
 **Computer Science**
 
@@ -73,21 +73,25 @@ DSA · System Design · Databases · APIs
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 📊 Engineering Radar
-
 <div align="center">
+
+## 📊 Engineering Radar
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="460" alt="Engineering radar"/>
+  <img src="assets/radar-dark.svg" width="500" alt="Engineering radar"/>
 </picture>
 
-</div>
+<br/>
 
-*Self-rated areas I'm actively developing through projects, problem solving, and system-design practice.*
+<sub>Self-rated areas I'm actively developing through projects, problem solving, and system-design practice.</sub>
+
+</div>
 
 ---
 
@@ -95,55 +99,57 @@ DSA · System Design · Databases · APIs
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-skillsSnap-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-skillsSnap-light.svg">
-  <img src="assets/card-skillsSnap-dark.svg" width="420" alt="SkillSnap"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-Hello-Notes-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-Hello-Notes-light.svg">
-  <img src="assets/card-Hello-Notes-dark.svg" width="420" alt="HelloNotes"/>
-</picture>
-
-</div>
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏪 Retail
-
-A digital ordering concept for local retailers using QR-based access and WhatsApp-driven workflows.
-
-**Java · Spring Boot · PostgreSQL**
-
-<a href="https://github.com/krishnakamalbaishnab/Retail">View repository →</a>
+<a href="https://github.com/krishnakamalbaishnab/skillsSnap">
+<img src="assets/card-skillsSnap-dark.svg" alt="SkillSnap project card"/>
+</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧒 Kids Platform
-
-A full-stack platform currently under development, exploring authentication, role-based portals, PostgreSQL, Flyway, Docker, and React.
-
-**Java · Spring Boot · PostgreSQL · React**
+<a href="https://github.com/krishnakamalbaishnab/Hello-Notes">
+<img src="assets/card-Hello-Notes-dark.svg" alt="HelloNotes project card"/>
+</a>
 
 </td>
 </tr>
 </table>
 
+</div>
+
+### 🏪 Retail
+
+**A digital ordering platform for local retailers.**
+
+Exploring QR-based access and WhatsApp-driven retail workflows.
+
+**Java · Spring Boot · PostgreSQL · REST APIs**
+
+[View repository →](https://github.com/krishnakamalbaishnab/Retail)
+
+### 🧒 Kids Platform
+
+**A full-stack marketplace and management platform.**
+
+Exploring authentication, role-based portals, PostgreSQL data modeling, Flyway migrations, Docker-based development, and multiple application workflows.
+
+**Java · Spring Boot · PostgreSQL · React · Docker · Flyway**
+
+> Private project — currently under active development.
+
 ---
+
+<div align="center">
 
 ## ✍️ I write about what I learn
 
 I keep technical notes and write about things I find useful while learning and building — from software engineering concepts to tools and experiments.
 
-<div align="center">
-
 <a href="https://krishnakamalbaishnab.medium.com">
-  <img src="https://img.shields.io/badge/Read_my_writing-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+<img src="https://img.shields.io/badge/Read_my_writing-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Read my writing"/>
 </a>
 
 </div>
@@ -154,31 +160,25 @@ I keep technical notes and write about things I find useful while learning and b
 
 > **Build it. Break it. Understand it. Improve it.**
 
-I prefer understanding a problem before reaching for a framework or a workaround.
+I prefer understanding a problem before reaching for a framework or workaround.
 
 For me, good engineering is less about collecting technologies and more about knowing why a system behaves the way it does.
 
 ---
 
-## 📈 GitHub
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-  <img src="assets/card-stats-dark.svg" width="460" alt="GitHub statistics"/>
-</picture>
+## 📈 GitHub
+
+<img src="assets/card-stats-dark.svg" width="520" alt="GitHub statistics"/>
 
 <br/><br/>
 
+<a href="https://github.com/krishnakamalbaishnab">
 <img src="https://komarev.com/ghpvc/?username=krishnakamalbaishnab&color=080746&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</a>
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 ### Let's build something useful.
 
@@ -192,6 +192,6 @@ For me, good engineering is less about collecting technologies and more about kn
 
 <br/><br/>
 
-<sub>Code is the implementation. Understanding is the skill.</sub>
+<sub><i>Code is the implementation. Understanding is the skill.</i></sub>
 
 </div>
